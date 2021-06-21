@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flowers xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns="http://www.example.com/flowers"
+         xsi:schemaLocation="http://www.example.com/flowers orangery.xsd">
+
+    <garden-flower id="g1" soil="unpaved">
+        <name>Rose</name>
+        <origin>Holland</origin>
+        <visual-parameters>
+            <stem-color>Green</stem-color>
+            <leaf-color>Red</leaf-color>
+            <plant-size>60</plant-size>
+        </visual-parameters>
+        <growing-tips>
+            <temperature>20</temperature>
+            <watering>80</watering>
+        </growing-tips>
+        <multiplying>stalk</multiplying>
+    </garden-flower>
+
+    <garden-flower id="g2" soil="unpaved">
+        <name>jasmine</name>
+        <origin>Tropical Asia</origin>
+        <visual-parameters>
+            <stem-color>Green</stem-color>
+            <leaf-color>White</leaf-color>
+            <plant-size>190</plant-size>
+        </visual-parameters>
+        <growing-tips>
+            <temperature>20</temperature>
+            <watering>90</watering>
+        </growing-tips>
+        <multiplying>stalk</multiplying>
+    </garden-flower>
+
+    <garden-flower id="g3" soil="podzolic">
+        <name>Abelia</name>
+        <origin>Japan</origin>
+        <visual-parameters>
+            <stem-color>Green</stem-color>
+            <leaf-color>White</leaf-color>
+            <plant-size>200</plant-size>
+        </visual-parameters>
+        <growing-tips>
+            <temperature>22</temperature>
+            <watering>75</watering>
+        </growing-tips>
+        <multiplying>seed</multiplying>
+    </garden-flower>
+
+    <garden-flower id="g4" soil="soddy-podzolic">
+        <name>Kermek</name>
+        <origin>Central Asia</origin>
+        <visual-parameters>
+            <stem-color>Green</stem-color>
+            <leaf-color>Blue</leaf-color>
+            <plant-size>50</plant-size>
+        </visual-parameters>
+        <growing-tips>
+            <temperature>18</temperature>
+            <watering>10</watering>
+        </growing-tips>
+        <multiplying>seed</multiplying>
+    </garden-flower>
+
+    <garden-flower id="g5" soil="unpaved">
+        <name>Gladiolus</name>
+        <origin>Asia</origin>
+        <visual-parameters>
+            <stem-color>Green</stem-color>
+            <leaf-color>Pink</leaf-color>
+            <plant-size>100</plant-size>
+        </visual-parameters>
+        <growing-tips>
+            <temperature>20</temperature>
+            <watering>25</watering>
+        </growing-tips>
+        <multiplying>seed</multiplying>
+    </garden-flower>
+
+    <garden-flower id="g6" soil="unpaved">
+        <name>Iris</name>
+        <origin>Asia</origin>
+        <visual-parameters>
+            <stem-color>Green</stem-color>
+            <leaf-color>Purple</leaf-color>
+            <plant-size>80</plant-size>
+        </visual-parameters>
+        <growing-tips>
+            <temperature>15</temperature>
+            <watering>20</watering>
+        </growing-tips>
+        <multiplying>seed</multiplying>
+    </garden-flower>
+
+    <garden-flower id="g7" soil="podzolic">
+        <name>Hydrangea</name>
+        <origin>South America</origin>
+        <visual-parameters>
+            <stem-color>Green</stem-color>
+            <leaf-color>White</leaf-color>
+            <plant-size>300</plant-size>
+        </visual-parameters>
+        <growing-tips>
+            <temperature>18</temperature>
+            <watering>40</watering>
+        </growing-tips>
+        <multiplying>stalk</multiplying>
+    </garden-flower>
+
+    <garden-flower id="g8" soil="unpaved">
+        <name>Сhrysanthemum</name>
+        <origin>Asia</origin>
+        <visual-parameters>
+            <stem-color>Green</stem-color>
+            <leaf-color>Yellow</leaf-color>
+            <plant-size>100</plant-size>
+        </visual-parameters>
+        <growing-tips>
+            <temperature>20</temperature>
+            <watering>30</watering>
+        </growing-tips>
+        <multiplying>seed</multiplying>
+    </garden-flower>
+
+    <garden-flower id="g9" soil="soddy-podzolic">
+        <name>Peonies</name>
+        <origin>Asia</origin>
+        <visual-parameters>
+            <stem-color>Green</stem-color>
+            <leaf-color>White</leaf-color>
+            <plant-size>120</plant-size>
+        </visual-parameters>
+        <growing-tips>
+            <temperature>15</temperature>
+            <watering>40</watering>
+        </growing-tips>
+        <multiplying>stalk</multiplying>
+    </garden-flower>
+
+</flowers>
+
+
+
+
+
